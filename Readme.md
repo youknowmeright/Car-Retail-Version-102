@@ -26,9 +26,10 @@ A sleek, responsive car showcase website built with HTML, CSS (Tailwind), and Ja
 ![Cart Section ](./image/readme/Screensho%206.png)
 
 
-🔧 How to Run Locally
+🔧 How to Run 
+1. go to deployment page
+2. click the link
 
-1. Start your local server (Node.js or Live Server).
-2. Make sure your JSON file is served at `/api/products`.
-3. Type node api.js
-3. Open with liver server
+Note-  
+1.Created using github pages , it will fetch data from json file amd show on website
+
