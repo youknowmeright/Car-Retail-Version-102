@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "BMW 3 Series",
+    "price": 41259,
+    "elementId": "bmw-1",
+    "imageElementId": "bmw-img-1",
+    "image": "./image/image_for/BMW 3 Series.jpg"
+  },
+  {
+    "id": 2,
+    "name": "BMW 5 Series",
+    "price": 54200,
+    "elementId": "bmw-2",
+    "imageElementId": "bmw-img-2",
+    "image": "./image/image_for/BMW 5 Series.jpg"
+  },
+  {
+    "id": 3,
+    "name": "BMW X5",
+    "price": 61700,
+    "elementId": "bmw-3",
+    "imageElementId": "bmw-img-3",
+    "image": "./image/image_for/BMW X5.jpeg"
+  },
+  {
+    "id": 4,
+    "name": "Audi Q5",
+    "price": 43300,
+    "elementId": "audi-1",
+    "imageElementId": "audi-img-1",
+    "image": "./image/image_for/Audi Q5.jpeg"
+  },
+  {
+    "id": 5,
+    "name": "Audi A6",
+    "price": 54900,
+    "elementId": "audi-2",
+    "imageElementId": "audi-img-2",
+    "image": "./image/image_for/Audi A6.jpeg"
+  },
+  {
+    "id": 6,
+    "name": "Audi A4",
+    "price": 39100,
+    "elementId": "audi-3",
+    "imageElementId": "audi-img-3",
+    "image": "./image/image_for/Audi A4 .jpeg"
+  },
+  {
+    "id": 7,
+    "name": "Mercedes-Benz C-Class",
+    "price": 42650,
+    "elementId": "mercedes-1",
+    "imageElementId": "mercedez-img-1",
+    "image": "./image/image_for/mercedez C-Class.jpeg"
+  },
+  {
+    "id": 8,
+    "name": "Mercedes-Benz E-Class",
+    "price": 54000,
+    "elementId": "mercedes-2",
+    "imageElementId": "mercedez-img-2",
+    "image": "./image/image_for/mercedez E-Class.jpeg"
+  },
+  {
+    "id": 9,
+    "name": "Mercedes-Benz GLC",
+    "price": 43850,
+    "elementId": "mercedes-3",
+    "imageElementId": "mercedez-img-3",
+    "image": "./image/image_for/mercedez GLC.jpeg"
+  }
+]
